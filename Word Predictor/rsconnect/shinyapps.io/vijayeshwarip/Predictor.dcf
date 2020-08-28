@@ -1,0 +1,13 @@
+name: Predictor
+title: Predictor
+username:
+account: vijayeshwarip
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2718636
+bundleId: 3567136
+url: https://vijayeshwarip.shinyapps.io/Predictor/
+when: 1598621792.23649
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 1-rpubs.html|1.log|1.md|1.rmd|1.Rpres|1.tex|1-figure/unnamed-chunk-2-1.png
